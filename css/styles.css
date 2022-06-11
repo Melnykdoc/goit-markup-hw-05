@@ -263,6 +263,19 @@ body {
     border-radius: 4px;
 }
 /* WORK!!!!!!!!!!!!!!!!! */
+.work-link {
+    display: block;
+    position: relative;
+    border: 1px solid red;
+}
+.work-text {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+}
 .second-title {
     margin-bottom: 50px;
 
